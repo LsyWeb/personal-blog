@@ -1,0 +1,3 @@
+require('./bannerMock')
+require('./settingMock')
+
