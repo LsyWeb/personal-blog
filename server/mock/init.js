@@ -1,3 +1,0 @@
-require('./bannerMock')
-require('./settingMock')
-
